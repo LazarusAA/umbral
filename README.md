@@ -19,7 +19,7 @@
   </p>
 
   <p align="center">
-    <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" alt="Status" />
+    <img src="https://img.shields.io/badge/Status-Paused-success?style=flat-square" alt="Status" />
     <img src="https://img.shields.io/github/last-commit/LazarusAA/umbral?style=flat-square" alt="Last Commit" />
     <img src="https://img.shields.io/badge/Focus-Education-blue?style=flat-square" alt="Focus" />
   </p>
