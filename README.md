@@ -1,36 +1,98 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<div align="center">
+  <a href="https://www.somosumbral.com">
+    <img width="1500" height="600" alt="Company (15)" src="https://github.com/user-attachments/assets/e59457a0-1338-4f81-b9b2-d8414c075337" />
+  </a>
 
-## Getting Started
+  <h1 align="center">Umbral</h1>
 
-First, run the development server:
+  <p align="center">
+    <strong>Cross the threshold to your university future.</strong>
+  </p>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+  <p align="center">
+    <a href="https://www.somosumbral.com"><strong>www.somosumbral.com</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/LazarusAA/umbral/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/LazarusAA/umbral/issues">Request Feature</a>
+  </p>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+  <p align="center">
+    <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" alt="Status" />
+    <img src="https://img.shields.io/github/last-commit/LazarusAA/umbral?style=flat-square" alt="Last Commit" />
+    <img src="https://img.shields.io/badge/Focus-Education-blue?style=flat-square" alt="Focus" />
+  </p>
+</div>
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+<br />
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 💡 About The Project
 
-## Learn More
+**Umbral** is a specialized platform designed to democratize access to higher education in Costa Rica. It helps students prepare for the **Prueba de Aptitud Académica (PAA)** required by major universities like **UCR** and **TEC**.
 
-To learn more about Next.js, take a look at the following resources:
+Finding high-quality, personalized preparation material can be difficult and expensive. Umbral solves this by offering a **free, intelligent diagnostic tool** that identifies a student's strengths and weaknesses in just 90 seconds.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Key Features
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+* 🚀 **Rapid Diagnostic:** A 90-second assessment algorithm to gauge readiness.
+* 📊 **Personalized Insights:** Detailed feedback on specific areas (Math, Logic, Verbal).
+* 🎯 **Targeted Improvement:** clear pathways for students to focus their study time where it matters most.
+* 📱 **Responsive Design:** Fully optimized for mobile and desktop access.
 
-## Deploy on Vercel
+<br />
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🛠️ Built With
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+This project leverages modern web technologies to ensure performance, scalability, and a smooth user experience.
+
+* ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+* ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+* ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+* ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+<br />
+
+## 🚀 Getting Started
+
+To get a local copy up and running, follow these simple steps.
+
+### Prerequisites
+
+* npm
+    ```sh
+    npm install npm@latest -g
+    ```
+
+### Installation
+
+1.  Clone the repo
+    ```sh
+    git clone [https://github.com/LazarusAA/umbral.git](https://github.com/LazarusAA/umbral.git)
+    ```
+2.  Install NPM packages
+    ```sh
+    npm install
+    ```
+3.  Start the development server
+    ```sh
+    npm run dev
+    ```
+
+<br />
+
+## 🔮 Roadmap
+
+- [x] Launch core diagnostic tool
+- [ ] Add user progress tracking dashboard
+- [ ] Integrate comprehensive practice modules
+
+<br />
+
+## 📬 Contact
+
+**LazarusAA** - [GitHub Profile](https://github.com/LazarusAA)
+
+Project Link: [https://github.com/LazarusAA/umbral](https://github.com/LazarusAA/umbral)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
